@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header_home.html" . -}}
+        <section id="introduction">
+            <div class="container">
+                {{ .Content }}
+            </div>
+        </section>
+        <section id="newest" class="bg-primary">
+            <div class="container">
+                <h2>Check out their most recent adventure!</h2>
+                <div>
+
+                </div>
+                <a href="#">See all adventures</a>
+        </section>
+        <section id="countries">
+            <div class="container">
+                <h2>Check out the places they've been!</h2>
+                <div class="row">
+                    <div id="map" class="col-xl-8">
+                    </div>
+                    <div id="info" class="col-xl-4 d-none">
+                        <h3>Country</h3>
+                        <p>Lorem ipsum dolor sit amet</p>
+                        <a href="#">See all adventures in <span>Country</span></a>
+                    </div>
+                </div>
+                <div id="flags">
+                </div>
+            </div>
+        </section>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

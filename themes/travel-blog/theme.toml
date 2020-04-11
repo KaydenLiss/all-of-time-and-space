@@ -3,19 +3,13 @@
 
 name = "Travel Blog"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = ""
 description = ""
-homepage = "http://example.com/"
+homepage = ""
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Kayliz"
+  homepage = "https://github.com/kayliz"
