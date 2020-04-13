@@ -1,0 +1,12 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "author": "kayliz",
+  "license": "ISC"
+}
