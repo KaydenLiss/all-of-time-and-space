@@ -1,0 +1,39 @@
+.footer {
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    .social-icons {
+        margin-bottom: 20px;
+    }
+}
+
+.footer-menu {
+    display: flex;
+    justify-content: center;
+
+    .nav-link {
+        $padding: 15px;
+
+        display: inline;
+        padding-left: $padding;
+        padding-right: $padding;
+
+        + .nav-link {
+            position: relative;
+
+            &:before {
+                $diameter: 4px;
+
+                position: absolute;
+                content: '';
+                width: $diameter;
+                height: $diameter;
+                background-color: $white;
+                border-radius: 50%;
+                left: -($diameter/2);
+                top: 50%;
+                transform: translateY(-50%);
+            }
+        }
+    }
+}
