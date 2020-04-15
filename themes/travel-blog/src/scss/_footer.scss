@@ -1,9 +1,14 @@
 .footer {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-bottom: 40px;
 
     .social-icons {
         margin-bottom: 20px;
+        font-size: $font-size-lg;
+    }
+
+    .social-icon + .social-icon {
+        margin-left: 15px;
     }
 }
 
