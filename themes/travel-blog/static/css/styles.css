@@ -92,7 +92,7 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 0.5rem; }
+  margin-bottom: 1rem; }
 
 p {
   margin-top: 0;
@@ -154,12 +154,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #0a2d7c;
+  color: #b87b36;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #041335;
-    text-decoration: underline; }
+    color: #91612a;
+    text-decoration: none; }
 
 a:not([href]) {
   color: inherit;
@@ -320,7 +320,8 @@ template {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-family: Kaushan;
   font-weight: 500;
   line-height: 1.2; }
 
@@ -1541,13 +1542,13 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #0a2d7c;
+  color: #b87b36;
   text-decoration: none; }
   .btn-link:hover {
-    color: #041335;
-    text-decoration: underline; }
+    color: #91612a;
+    text-decoration: none; }
   .btn-link:focus, .btn-link.focus {
-    text-decoration: underline;
+    text-decoration: none;
     box-shadow: none; }
   .btn-link:disabled, .btn-link.disabled {
     color: #6c757d;
@@ -4648,14 +4649,16 @@ a.text-dark:hover, a.text-dark:focus {
 .bg-primary {
   color: #dee2e6; }
   .bg-primary a {
-    color: #dee2e6; }
+    color: #d3a168; }
+    .bg-primary a:hover {
+      color: #deb98f; }
 
 section {
   padding-top: 80px;
   padding-bottom: 80px; }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Kaushan; }
+section:last-child {
+  margin-bottom: 0; }
 
 .header-home {
   height: 500px;
@@ -4686,8 +4689,10 @@ h1, h2, h3, h4, h5, h6 {
   .footer .social-icons {
     margin-bottom: 20px;
     font-size: 1.40625rem; }
-  .footer .social-icon + .social-icon {
-    margin-left: 15px; }
+  .footer .social-icon {
+    color: #dee2e6; }
+    .footer .social-icon + .social-icon {
+      margin-left: 15px; }
 
 .footer-menu {
   display: flex;
@@ -4695,7 +4700,8 @@ h1, h2, h3, h4, h5, h6 {
   .footer-menu .nav-link {
     display: inline;
     padding-left: 15px;
-    padding-right: 15px; }
+    padding-right: 15px;
+    color: #dee2e6; }
     .footer-menu .nav-link + .nav-link {
       position: relative; }
       .footer-menu .nav-link + .nav-link:before {

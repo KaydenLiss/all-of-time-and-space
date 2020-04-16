@@ -7,8 +7,12 @@
         font-size: $font-size-lg;
     }
 
-    .social-icon + .social-icon {
-        margin-left: 15px;
+    .social-icon {
+        color: $body-color-light;
+
+        + .social-icon {
+            margin-left: 15px;
+        }
     }
 }
 
@@ -22,6 +26,7 @@
         display: inline;
         padding-left: $padding;
         padding-right: $padding;
+        color: $body-color-light;
 
         + .nav-link {
             position: relative;

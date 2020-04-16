@@ -1,8 +1,12 @@
 .bg-primary {
-    color: $gray-300;
+    color: $body-color-light;
 
     a {
-        color: $gray-300;
+        color: $bg-primary-link-color;
+
+        &:hover {
+            color: $bg-primary-link-hover-color;
+        }
     }
 }
 
@@ -11,11 +15,8 @@ section {
     padding-bottom: 80px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: $font-family-headlines;
+section {
+    &:last-child {
+        margin-bottom: 0;
+    }
 }
