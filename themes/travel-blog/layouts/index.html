@@ -28,21 +28,23 @@
                     <div class="col-xl-8 text-xl-right">
                         <h2>Check out their most recent adventure!</h2>
                         <div class="article-teaser">
-                            <div class="article-teaser--head">
-                                <span>Lorem ipsum dolor sit amet</span>
-                                <span>23-05-2020</span>
-                            </div>
-                            <div class="article-teaser--body">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit in voluptate velit
-                                    esse cillum dolore eu fugiat nulla pariatur...
-                                    <a href="">More</a>
-                                </p>
-                            </div>
+                            {{ range first 1 (where .Site.Pages "Type" "post") }}
+                                <div class="article-teaser--head">
+                                    <span>{{ .Title }}</span>
+                                    <span>{{ .Date.Format "02 Jan, 2006" }}</span>
+                                </div>
+                                <div class="article-teaser--body">
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                        sed do eiusmod tempor incididunt ut labore et dolore magna
+                                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                        ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                        Duis aute irure dolor in reprehenderit in voluptate velit
+                                        esse cillum dolore eu fugiat nulla pariatur...
+                                        <a href="{{ .RelPermalink }}">More</a>
+                                    </p>
+                                </div>
+                            {{ end }}
                         </div>
                     </div>
                 </div>
