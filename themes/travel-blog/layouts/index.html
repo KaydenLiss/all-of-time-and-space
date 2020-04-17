@@ -5,16 +5,51 @@
         {{- partial "header_home.html" . -}}
         <section id="introduction">
             <div class="container">
-                {{ .Content }}
+                <div class="row">
+                    <div class="col-xl-8">
+                        <h2>{{ .Title }}</h2>
+                        {{ .Content }}
+                    </div>
+                    <div class="col-xl-4">
+                        <img src="/images/home/heart.jpg" class="img-fluid img-border" />
+                    </div>
+                </div>
+                <div class="text-center c2a">
+                    <a class="btn btn-secondary" href="">Read more about Lilo and Mike</a>
+                </div>
             </div>
         </section>
         <section id="newest" class="bg-primary">
             <div class="container">
-                <h2>Check out their most recent adventure!</h2>
-                <div>
-
+                <div class="row">
+                    <div class="col-xl-4">
+                        <img src="#" />
+                    </div>
+                    <div class="col-xl-8 text-xl-right">
+                        <h2>Check out their most recent adventure!</h2>
+                        <div class="article-teaser">
+                            <div class="article-teaser--head">
+                                <span>Lorem ipsum dolor sit amet</span>
+                                <span>23-05-2020</span>
+                            </div>
+                            <div class="article-teaser--body">
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                    sed do eiusmod tempor incididunt ut labore et dolore magna
+                                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                    Duis aute irure dolor in reprehenderit in voluptate velit
+                                    esse cillum dolore eu fugiat nulla pariatur...
+                                    <a href="">More</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <a href="#">See all adventures</a>
+                <div class="text-center c2a">
+                    <a class="btn btn-secondary" href="#">See all adventures</a>
+                </div>
+            </div>
         </section>
         <section id="countries">
             <div class="container">
