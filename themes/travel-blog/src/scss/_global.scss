@@ -47,3 +47,8 @@ section {
     border: 1px solid $secondary;
     padding: 5px;
 }
+
+.article-teaser--head {
+    margin-bottom: $spacer / 2;
+    font-size: $h5-font-size;
+}

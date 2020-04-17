@@ -4677,6 +4677,10 @@ section:last-child {
   border: 1px solid #b87b36;
   padding: 5px; }
 
+.article-teaser--head {
+  margin-bottom: 1rem;
+  font-size: 1.40625rem; }
+
 .header-home {
   height: 500px;
   padding-top: 180px;

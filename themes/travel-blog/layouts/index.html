@@ -21,27 +21,30 @@
         </section>
         <section id="newest" class="bg-primary">
             <div class="container">
+                <div>
+                    <h2>Check out their most recent adventure!</h2>
+                </div>
                 <div class="row">
-                    <div class="col-xl-4">
-                        <img src="#" />
-                    </div>
-                    <div class="col-xl-8 text-xl-right">
-                        <h2>Check out their most recent adventure!</h2>
-                        <div class="article-teaser">
-                            {{ range first 1 (where .Site.Pages "Type" "post") }}
-                                <div class="article-teaser--head">
-                                    <span>{{ .Title }}</span>
+                    {{ range first 1 (where .Site.Pages "Type" "post") }}
+                        <div class="col-xl-4">
+                            {{ $img := .Resources.GetMatch "preview.*" }}
+                            <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                        </div>
+                        <div class="col-xl-8">
+                            <div class="article-teaser">
+                                <h3 class="article-teaser--head">
+                                    <span class="font-weight-bold">{{ .Title }}</span> -
                                     <span>{{ .Date.Format "02 Jan, 2006" }}</span>
-                                </div>
+                                </h3>
                                 <div class="article-teaser--body">
                                     <p>
                                         {{ .Description }}
-                                        <a href="{{ .RelPermalink }}">More</a>
                                     </p>
+                                    <a href="{{ .RelPermalink }}">Read more</a>
                                 </div>
-                            {{ end }}
+                            </div>
                         </div>
-                    </div>
+                    {{ end }}
                 </div>
                 <div class="text-center c2a">
                     <a class="btn btn-secondary" href="#">See all adventures</a>
