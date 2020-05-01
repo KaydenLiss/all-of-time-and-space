@@ -1,0 +1,21 @@
+.bg-primary {
+    color: $body-color-light;
+
+    .btn {
+        color: $body-color-light;
+
+        &:hover {
+            color: $body-color-light;
+        }
+    }
+
+    .btn-secondary {
+        background-color: darken($secondary, 5%);
+        border-color: darken($secondary, 5%);
+
+        &:hover {
+            background-color: $secondary;
+            border-color: $secondary;
+        }
+    }
+}

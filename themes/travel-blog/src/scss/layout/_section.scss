@@ -1,0 +1,10 @@
+section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+section {
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
