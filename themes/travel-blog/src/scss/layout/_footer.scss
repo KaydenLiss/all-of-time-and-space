@@ -1,49 +1,48 @@
 .footer {
-    padding-top: 60px;
-    padding-bottom: 40px;
+  padding-top: 60px;
+  padding-bottom: 40px;
 
-    .social-icons {
-        margin-bottom: 20px;
-        font-size: $font-size-lg;
+  .social-icons {
+    margin-bottom: 20px;
+    font-size: $font-size-lg;
+  }
+
+  .social-icon {
+    color: $body-color-light;
+
+    + .social-icon {
+      margin-left: 15px;
     }
-
-    .social-icon {
-        color: $body-color-light;
-
-        + .social-icon {
-            margin-left: 15px;
-        }
-    }
+  }
 }
 
 .footer-menu {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 
-    .nav-link {
-        $padding: 15px;
+  .nav-link {
+    $padding: 15px;
 
-        display: inline;
-        padding-left: $padding;
-        padding-right: $padding;
-        color: $body-color-light;
+    display: inline;
+    padding-right: $padding;
+    padding-left: $padding;
+    color: $body-color-light;
 
-        + .nav-link {
-            position: relative;
+    + .nav-link {
+      position: relative;
 
-            &:before {
-                $diameter: 4px;
+      &:before {
+        $diameter: 4px;
 
-                position: absolute;
-                content: '';
-                width: $diameter;
-                height: $diameter;
-                background-color: $white;
-                border-radius: 50%;
-                left: -($diameter/2);
-                top: 50%;
-                transform: translateY(-50%);
-            }
-        }
+        position: absolute;
+        top: 50%;
+        left: -($diameter/2);
+        transform: translateY(-50%);
+        background-color: $white;
+        width: $diameter;
+        height: $diameter;
+        content: '';
+      }
     }
+  }
 }

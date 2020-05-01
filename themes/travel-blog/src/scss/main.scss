@@ -1,28 +1,22 @@
 @charset 'utf-8';
 
-@import
-    'helpers/fonts',
-    'helpers/variables';
+@import 'helpers/fonts';
+@import 'helpers/variables';
 
-@import
-    'override/bootstrap-variables';
+@import 'override/bootstrap-variables';
 
-@import
-    'vendors/bootstrap-modules';
+@import 'vendors/bootstrap-modules';
 
-@import
-    'base/global';
+@import 'base/global';
 
-@import
-    'layout/header',
-    'layout/footer',
-    'layout/section';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/section';
 
-@import
-    'components/buttons',
-    'components/links',
-    'components/images',
-    'components/c2a',
-    'components/article-teaser';
+@import 'components/buttons';
+@import 'components/links';
+@import 'components/images';
+@import 'components/c2a';
+@import 'components/article-teaser';
 
 // import pages

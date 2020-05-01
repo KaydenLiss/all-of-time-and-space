@@ -1,11 +1,11 @@
 .bg-primary {
-    color: $body-color-light;
+  color: $body-color-light;
 
-    a {
-        color: $bg-primary-link-color;
+  a {
+    color: $bg-primary-link-color;
 
-        &:hover {
-            color: $bg-primary-link-hover-color;
-        }
+    &:hover {
+      color: $bg-primary-link-hover-color;
     }
+  }
 }
