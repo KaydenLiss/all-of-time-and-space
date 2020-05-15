@@ -45,17 +45,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <style>
-      .country {
-        transition: fill 0.15s ease-in-out;
-        cursor: pointer;
-      }
-
-      .country:hover,
-      .country.active {
-        fill: rgb(10,45,124)!important;
-      }
-  </style>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"

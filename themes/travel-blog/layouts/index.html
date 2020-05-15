@@ -56,7 +56,7 @@
                 <h2>Check out the places they've been!</h2>
                 <div class="row">
                     <div class="col-xl-8">
-                        <object id="map" data="/images/map/europe.svg" type="image/svg+xml"></object>
+                        {{- partial "map.html" . -}}
                     </div>
                     <div class="col-xl-4">
                         <div id="info-germany" class="country-info d-none">
@@ -70,7 +70,7 @@
                 </div>
                 <div class="row flags">
                     <div class="col-sm-4 col-md-3 col-xl-2">
-                        <div class="flag" data-country="germany">
+                        <div id="flag-germany" class="flag" data-country="germany">
                             <object data="/images/map/flags/germany.svg" type="image/svg+xml"></object>
                             <div class="flag-text">Germany<span>
                         </div>
