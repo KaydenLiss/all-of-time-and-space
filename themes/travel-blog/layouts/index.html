@@ -34,7 +34,7 @@
                             <div class="article-teaser">
                                 <h3 class="article-teaser--head">
                                     <span class="font-weight-bold">{{ .Title }}</span> -
-                                    <span>{{ .Date.Format "02 Jan, 2006" }}</span>
+                                    <span>{{ .Date.Format "January 2, 2006" }}</span>
                                 </h3>
                                 <div class="article-teaser--body">
                                     <p>
@@ -55,15 +55,26 @@
             <div class="container">
                 <h2>Check out the places they've been!</h2>
                 <div class="row">
-                    <div id="map" class="col-xl-8">
+                    <div class="col-xl-8">
+                        <object id="map" data="/images/map/europe.svg" type="image/svg+xml"></object>
                     </div>
-                    <div id="info" class="col-xl-4 d-none">
-                        <h3>Country</h3>
-                        <p>Lorem ipsum dolor sit amet</p>
-                        <a href="#">See all adventures in <span>Country</span></a>
+                    <div class="col-xl-4">
+                        <div id="info-germany" class="country-info d-none">
+                            <h3>Germany</h3>
+                            <p class="font-weight-bold">January 1, 2020 - February 1, 2020</p>
+                            <p>Lilo and Mike set out from Regensburg on January 1, 2020. This was the beginning of their adventures.</p>
+                            <p>They visited several places, including X, Y and Z, before continuing on to wherever.</p>
+                            <a class="btn btn-secondary" href="/categories/germany/">See adventures in Germany</a>
+                        </div>
                     </div>
                 </div>
-                <div id="flags">
+                <div class="row flags">
+                    <div class="col-sm-4 col-md-3 col-xl-2">
+                        <div class="flag" data-country="germany">
+                            <object data="/images/map/flags/germany.svg" type="image/svg+xml"></object>
+                            <div class="flag-text">Germany<span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

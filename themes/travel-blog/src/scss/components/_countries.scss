@@ -1,0 +1,31 @@
+.flag {
+  cursor: pointer;
+  position: relative;
+  line-height: 0;
+
+  .flag-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: $body-color-light;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    background: $gradient;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &:hover,
+  .active {
+    .flag-text {
+      opacity: 1;
+    }
+  }
+}
+
+#map {
+  background-color: #b3e5fc;
+}
