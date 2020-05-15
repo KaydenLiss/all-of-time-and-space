@@ -4708,12 +4708,20 @@ section:last-child {
     text-align: center;
     display: flex;
     align-items: center;
-    justify-content: center; }
-  .flag:hover .flag-text {
+    justify-content: center;
+    transition: all 0.2s ease-in-out; }
+  .flag:hover .flag-text, .flag.hovered .flag-text, .flag.clicked .flag-text {
     opacity: 1; }
 
 #map {
-  background-color: #b3e5fc; }
+  background-color: #b3e5fc;
+  margin-bottom: 2rem; }
+
+.country {
+  transition: all 0.2s ease-in-out;
+  cursor: pointer; }
+  .country:hover, .country.hovered, .country.clicked {
+    fill: #0a2d7c !important; }
 
 .img-border {
   border: 1px solid #b87b36;

@@ -16,10 +16,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: $transition-base;
   }
 
   &:hover,
-  .active {
+  &.hovered,
+  &.clicked {
     .flag-text {
       opacity: 1;
     }
@@ -28,4 +30,16 @@
 
 #map {
   background-color: #b3e5fc;
+  margin-bottom: $spacer;
 }
+
+.country {
+   transition: $transition-base;
+   cursor: pointer;
+
+   &:hover,
+   &.hovered,
+   &.clicked {
+     fill: rgb(10,45,124)!important;
+   }
+ }
