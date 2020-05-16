@@ -4619,13 +4619,18 @@ svg {
   max-width: 100%;
   height: auto; }
 
-.header-home {
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; }
+
+.header {
   position: relative;
   background-image: url("/images/header.jpg");
   background-size: cover;
-  padding-top: 180px;
-  height: 500px; }
-  .header-home:after {
+  padding-top: 100px;
+  height: 260px; }
+  .header:after {
     display: block;
     position: absolute;
     bottom: 0;
@@ -4634,17 +4639,35 @@ svg {
     width: 100%;
     height: 80%;
     content: ''; }
-  .header-home .header-text {
+  .header .header-text {
     position: relative;
     z-index: 1; }
-  .header-home h1 {
+  .header h1 {
     padding-bottom: 60px; }
-  .header-home p {
+  .header p {
     font-size: 1.40625rem; }
 
+.header-home {
+  padding-top: 100px;
+  height: 380px; }
+  .header-home h1 {
+    padding-bottom: 30px; }
+
+@media (min-width: 576px) {
+  .header-home {
+    height: 340px; } }
+
+@media (min-width: 992px) {
+  .header-home {
+    padding-top: 180px;
+    height: 500px; }
+    .header-home h1 {
+      pading-bottom: 60px; } }
+
 .footer {
-  padding-top: 60px;
-  padding-bottom: 40px; }
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: auto; }
   .footer .social-icons {
     margin-bottom: 20px;
     font-size: 1.40625rem; }

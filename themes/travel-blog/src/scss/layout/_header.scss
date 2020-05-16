@@ -1,9 +1,9 @@
-.header-home {
+.header {
   position: relative;
   background-image: url("/images/header.jpg");
   background-size: cover;
-  padding-top: 180px;
-  height: 500px;
+  padding-top: 100px;
+  height: 260px;
 
   &:after {
     display: block;
@@ -27,5 +27,31 @@
 
   p {
     font-size: $font-size-lg;
+  }
+}
+
+.header-home {
+  padding-top: 100px;
+  height: 380px;
+
+  h1 {
+    padding-bottom: 30px;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+  .header-home {
+    height: 340px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .header-home {
+    padding-top: 180px;
+    height: 500px;
+
+    h1 {
+      pading-bottom: 60px;
+    }
   }
 }

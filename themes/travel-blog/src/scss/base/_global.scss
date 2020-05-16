@@ -11,3 +11,9 @@ svg {
   max-width: 100%;
   height: auto;
 }
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
