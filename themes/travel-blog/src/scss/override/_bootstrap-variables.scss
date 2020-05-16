@@ -192,7 +192,7 @@ $bg-primary-link-hover-color: lighten($bg-primary-link-color, 10%);
 // //
 // // Style p element.
 //
-// $paragraph-margin-bottom:   1rem !default;
+$paragraph-margin-bottom:   $spacer;
 //
 //
 // // Grid breakpoints

@@ -1,3 +1,5 @@
-.c2a {
-  margin-top: $spacer;
+@include media-breakpoint-up(xl) {
+  .c2a {
+    margin-top: $spacer;
+  }
 }

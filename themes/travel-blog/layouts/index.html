@@ -4,13 +4,13 @@
     <body>
         {{- partial "header_home.html" . -}}
         <section id="introduction">
-            <div class="container">
+            <div class="container text-center text-lg-left">
                 <div class="row">
-                    <div class="col-xl-8">
+                    <div class="col-lg-8">
                         <h2>{{ .Title }}</h2>
                         {{ .Content }}
                     </div>
-                    <div class="col-xl-4">
+                    <div class="col-lg-4">
                         <img src="/images/home/heart.jpg" class="img-fluid img-border" />
                     </div>
                 </div>
@@ -21,16 +21,16 @@
         </section>
         <section id="newest" class="bg-primary">
             <div class="container">
-                <div>
+                <div class="text-center text-lg-left">
                     <h2>Check out their most recent adventure!</h2>
                 </div>
-                <div class="row">
+                <div class="row text-center text-md-left">
                     {{ range first 1 (where .Site.Pages "Type" "post") }}
-                        <div class="col-xl-4">
+                        <div class="col-md-4">
                             {{ $img := .Resources.GetMatch "preview.*" }}
                             <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
                         </div>
-                        <div class="col-xl-8">
+                        <div class="col-md-8">
                             <div class="article-teaser">
                                 <h3 class="article-teaser--head">
                                     <span class="font-weight-bold">{{ .Title }}</span> -
@@ -40,7 +40,9 @@
                                     <p>
                                         {{ .Description }}
                                     </p>
-                                    <a href="{{ .RelPermalink }}">Read more</a>
+                                    <p>
+                                        <a href="{{ .RelPermalink }}">Read more</a>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -52,24 +54,24 @@
             </div>
         </section>
         <section id="countries">
-            <div class="container">
+            <div class="container text-center text-lg-left">
                 <h2>Check out the places they've been!</h2>
                 <div class="row">
-                    <div class="col-xl-8">
+                    <div class="col col-md-6 col-lg-8 d-none d-md-block">
                         {{- partial "map.html" . -}}
                     </div>
-                    <div class="col-xl-4">
+                    <div class="col col-md-6 col-lg-4">
                         <div id="info-germany" class="country-info d-none">
                             <h3>Germany</h3>
                             <p class="font-weight-bold">January 1, 2020 - February 1, 2020</p>
                             <p>Lilo and Mike set out from Regensburg on January 1, 2020. This was the beginning of their adventures.</p>
-                            <p>They visited several places, including X, Y and Z, before continuing on to wherever.</p>
-                            <a class="btn btn-secondary" href="/categories/germany/">See adventures in Germany</a>
+                            <p class="d-none d-lg-block">They visited several places, including X, Y and Z, before continuing on to wherever.</p>
+                            <p><a class="btn btn-secondary" href="/categories/germany/">See adventures in Germany</a></p>
                         </div>
                     </div>
                 </div>
                 <div class="row flags">
-                    <div class="col-sm-4 col-md-3 col-xl-2">
+                    <div class="col-4 col-md-3 col-lg-2">
                         <div id="flag-germany" class="flag" data-country="germany">
                             <object data="/images/map/flags/germany.svg" type="image/svg+xml"></object>
                             <div class="flag-text">Germany<span>
