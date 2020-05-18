@@ -40,8 +40,23 @@
 }
 
 @include media-breakpoint-up(sm) {
+  .header {
+    padding-top: 120px;
+  }
+
   .header-home {
-    height: 340px;
+    padding-top: 140px;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .header {
+    height: 320px;
+    padding-top: 140px;
+  }
+
+  .header-home {
+    height: 380px;
   }
 }
 

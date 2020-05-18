@@ -1,0 +1,14 @@
+.main-navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+
+  .nav-link {
+    color: $body-color-light;
+
+    &:hover {
+      color: mix($body-color-light, $primary, 80%);
+    }
+  }
+}
