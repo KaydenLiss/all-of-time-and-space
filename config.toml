@@ -2,3 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "All of Time and Space"
 theme = "travel-blog"
+
+[params]
+  description = "Lilo and Mike's Travel Blog"
+  twitter = "https://twitter.com/craftyLilo"
+  insta = "https://www.instagram.com/"
