@@ -5149,3 +5149,21 @@ section:last-child {
     color: #dee2e6; }
     .main-navigation .nav-link:hover {
       color: #b4bed1; }
+
+.post-list {
+  list-style: none; }
+  .post-list .teaser {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem; }
+    .post-list .teaser:hover {
+      color: #dee2e6; }
+  .post-list .teaser-image {
+    width: 30%; }
+  .post-list .img-fluid {
+    margin-bottom: 0; }
+  .post-list .article-teaser {
+    width: 70%;
+    padding: 10px; }
+    .post-list .article-teaser p {
+      margin-bottom: 0; }

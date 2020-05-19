@@ -1,0 +1,30 @@
+.post-list {
+  list-style: none;
+
+  .teaser {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: $spacer;
+
+    &:hover {
+      color: $body-color-light;
+    }
+  }
+
+  .teaser-image {
+    width: 30%;
+  }
+
+  .img-fluid {
+    margin-bottom: 0;
+  }
+
+  .article-teaser {
+    width: 70%;
+    padding: 10px;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}

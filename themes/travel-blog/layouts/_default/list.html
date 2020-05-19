@@ -1,10 +1,33 @@
 {{ define "main" }}
    {{ .Content }}
-   <ul>
-       {{ range .Pages }}
-           <li>
-               <a href="{{.Permalink}}">{{.Title}}</a>
-           </li>
-       {{ end }}
-   </ul>
+       {{ if eq .Type "posts" }}
+        <ul class="post-list row">
+            {{ range .Pages }}
+                <li class="col-lg-6">
+                    <a href="{{ .RelPermalink }}" class="teaser bg-primary">
+                        <div class="teaser-image">
+                            {{ $img := .Resources.GetMatch "preview.*" }}
+                            <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                        </div>
+                        <div class="article-teaser">
+                            <h3 class="article-teaser--head">
+                                {{ .Title }}
+                            </h3>
+                            <p>
+                                {{ .Date.Format "January 2, 2006" }}, by Lilo
+                            </p>
+                        </div>
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
+    {{ else }}
+        <ul>
+            {{ range .Pages }}
+                <li>
+                    <a href="{{.Permalink}}">{{.Title}}</a>
+                </li>
+            {{ end }}
+        </ul>
+   {{ end }}
 {{ end }}
