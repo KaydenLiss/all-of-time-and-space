@@ -29,7 +29,9 @@
                     {{ range first 1 (where .Site.Pages "Type" "post") }}
                         <div class="col-md-4">
                             {{ $img := .Resources.GetMatch "preview.*" }}
-                            <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                            {{ if $img }}
+                                <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                            {{ end }}
                         </div>
                         <div class="col-md-8">
                             <div class="article-teaser">

@@ -7,14 +7,16 @@
                     <a href="{{ .RelPermalink }}" class="teaser bg-primary">
                         <div class="teaser-image">
                             {{ $img := .Resources.GetMatch "preview.*" }}
-                            <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                            {{ if $img }}
+                                <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                            {{ end }}
                         </div>
                         <div class="article-teaser">
                             <h3 class="article-teaser--head">
                                 {{ .Title }}
                             </h3>
                             <p>
-                                {{ .Date.Format "January 2, 2006" }}, by Lilo
+                                {{ .Date.Format "January 2, 2006" }}, by {{ .Param "author" }}
                             </p>
                         </div>
                     </a>
