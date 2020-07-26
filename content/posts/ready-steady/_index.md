@@ -38,6 +38,19 @@ I wish you lots of fun on your own adventure!
 
 <hr />
 
+*May the road rise to meet you,* <br/>
+*May the wind be always at your back.* <br/>
+*May the sun shine warm upon your face,* <br/>
+*The rains fall soft upon your fields.* <br/>
+*And until we meet again,* <br/>
+*May God hold you in the hollow of his hand.* <br/>
+
+Wishing you both blessings for the road - on your honeymoon travels and on your journey together through life.
+
+#### - Mum
+
+<hr />
+
 So viele Menschen haben Träume und träumen.
 Ihr lebt euren Traum. Das ist großartig und mutig! <br/>
 Ich wünsche auch alles alles Gute auf eurer Reise!
