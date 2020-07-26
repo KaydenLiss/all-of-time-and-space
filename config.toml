@@ -8,3 +8,6 @@ publishDir = "docs"
   description = "Lilo and Mike's Travel Blog"
   twitter = "https://twitter.com/craftyLilo"
   insta = "https://www.instagram.com/"
+
+[markup.goldmark.renderer]
+  unsafe= true
