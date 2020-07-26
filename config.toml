@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "All of Time and Space"
 theme = "travel-blog"
+publishDir = "docs"
 
 [params]
   description = "Lilo and Mike's Travel Blog"
