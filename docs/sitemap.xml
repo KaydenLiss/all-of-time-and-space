@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/imprint/</loc>
+    <loc>http://all-of-time-and-space.de/categories/</loc>
+    <lastmod>2020-07-26T17:27:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://all-of-time-and-space.de/categories/germany/</loc>
+    <lastmod>2020-07-26T17:27:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://all-of-time-and-space.de/posts/</loc>
+    <lastmod>2020-07-26T17:27:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://all-of-time-and-space.de/posts/ready-steady/</loc>
+    <lastmod>2020-07-26T17:27:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://all-of-time-and-space.de/imprint/</loc>
     <lastmod>2020-05-18T22:21:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://all-of-time-and-space.de/about/</loc>
     <lastmod>2020-05-18T22:15:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://all-of-time-and-space.de/</loc>
     <lastmod>2020-04-10T16:07:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/germany/</loc>
-    <lastmod>2020-04-10T16:07:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-04-10T16:07:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/lorem-ipsum/</loc>
-    <lastmod>2020-04-10T16:07:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-04-10T16:07:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://all-of-time-and-space.de/tags/</loc>
   </url>
   
 </urlset>

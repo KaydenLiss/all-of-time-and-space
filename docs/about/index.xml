@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Lilo and Mike on All of Time and Space</title>
-    <link>http://example.org/about/</link>
+    <link>http://all-of-time-and-space.de/about/</link>
     <description>Recent content in About Lilo and Mike on All of Time and Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2020 22:15:31 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://all-of-time-and-space.de/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

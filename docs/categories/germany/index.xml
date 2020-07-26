@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germany on All of Time and Space</title>
-    <link>http://example.org/categories/germany/</link>
+    <link>http://all-of-time-and-space.de/categories/germany/</link>
     <description>Recent content in Germany on All of Time and Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2020 16:07:26 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 17:27:25 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/germany/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://all-of-time-and-space.de/categories/germany/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>http://example.org/posts/lorem-ipsum/</link>
-      <pubDate>Fri, 10 Apr 2020 16:07:26 +0200</pubDate>
+      <title>Ready, Steady...</title>
+      <link>http://all-of-time-and-space.de/posts/ready-steady/</link>
+      <pubDate>Sun, 26 Jul 2020 17:27:25 +0200</pubDate>
       
-      <guid>http://example.org/posts/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet</description>
+      <guid>http://all-of-time-and-space.de/posts/ready-steady/</guid>
+      <description>Lilo and Mike were originally due to leave in May, but their journey had to be postponed due to the pandemic. Now they are finally ready to set off on their adventures, and their friends want to wish them all the best&amp;hellip;
+Dear Lilo and Mike, Roads go ever ever on,  Over rock and under tree,  By caves where never sun has shone,  By streams that never find the sea;  Over snow by winter sown,  And through the merry flowers of June,  Over grass and over stone,  And under mountains in the moon.</description>
     </item>
     
   </channel>
