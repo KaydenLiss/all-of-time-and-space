@@ -64,4 +64,25 @@ Ich wünsche auch alles alles Gute auf eurer Reise!
 Congratulations on getting married and all the best for your travels! <br/>
 May your story be beautiful and exciting and filled with love and laughter!
 
-#### - Liz
+#### - Liz & Mogli
+
+<hr />
+
+At the very end of C.S. Lewis's book "The Horse and His Boy", the horse Bree, who believes that Aslan is only a metaphorical lion, is confronted with Aslan himself, in all his golden glory. Bree tries to run away but Aslan tells him: "You poor, proud frightened horse, draw near. Nearer still, my son. Do not dare not to dare. Touch me, smell me. Here are my paws, here is my tail, these are my whiskers." Bree stops running and decides to trust in the lion, no matter how scary the beast may be.
+
+Life, too, is scary sometimes – a lot of times really, but the two of you aren't easily scared and you have made two big decisions: to get married and to see more of this world. You dared. You're off now, maybe not so much to smell new smells (tbh, lions don't smell all that good anyway) but definitely to touch and to see and to hear and to taste and to experience.
+
+I hope you'll find excitement and calm, see the bright colours of the heather in Scotland as well as the building blocks of castles, darkened by history, walk on young grass and lean against old trees, hear the true silence of the night at a loch, as well as the music of big cities and taste figs, dusty and still warm from the sun.
+
+Be safe, my dears. Enjoy your travels and each other's company.
+
+And bring me back a few fridge magnets.
+
+#### - Bea
+
+<hr />
+
+All roads lead to Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - Sun, sea, sand & midges. <br/>
+We will supply midge repellent when you arrive!
+
+#### - Doug & Gill
