@@ -5140,6 +5140,14 @@ section:last-child {
     .bg-primary a:hover {
       color: #deb98f; }
 
+.page-link {
+  display: flex;
+  justify-content: space-between; }
+
+@media (min-width: 992px) {
+  .page-link {
+    width: 70%; } }
+
 .main-navigation {
   position: absolute;
   top: 0;

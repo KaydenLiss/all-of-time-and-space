@@ -27,7 +27,15 @@
         <ul>
             {{ range .Pages }}
                 <li>
-                    <a href="{{.Permalink}}">{{.Title}}</a>
+                    <a class="page-link" href="{{.Permalink}}">
+                        <span class="page-link__title">{{.Title}}</span>
+                        <span class="page-link__meta">
+                            {{ .Date.Format "January 2, 2006" }}
+                            {{ if .Param "author" }}
+                                , by {{ .Param "author" }}
+                            {{ end }}
+                        </span>
+                    </a>
                 </li>
             {{ end }}
         </ul>
