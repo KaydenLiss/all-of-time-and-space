@@ -1,3 +1,4 @@
 .DS_Store
 themes/travel-blog/node_modules
 themes/travel-blog/sass-lint.html
+hugo.exe
