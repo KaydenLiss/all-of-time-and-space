@@ -86,3 +86,37 @@ All roads lead to Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - Sun, sea, sand & midge
 We will supply midge repellent when you arrive!
 
 #### - Doug & Gill
+
+<hr />
+
+It's not that I mind you going away, </br>
+it's just that I feel a little jealous of the folks who'll get to meet you. <br/>
+Maybe also just a tiny bit sorry for them, too. <br/>
+
+Sally forth, younglings, and bring back some songs and stories.
+
+#### - David S.
+
+<hr />
+
+*Not the bee upon the blossom,* <br/>
+*In the pride o' sunny noon;* <br/>
+*Not the little sporting fairy,* <br/>
+*All beneath the simmer moon;* <br/>
+*Not the poet, in the moment* <br/>
+*Fancy lightens in his e'e,* <br/>
+*Kens the pleasure, feels the rapture,* <br/>
+*That thy presence gi'es to me.*
+
+The world is your oyster, go and find the pearls. Have fun, try everything, stay safe, miss us lots, and bring back chocolates and exotic wines. And remember we love you.
+
+#### - Dad, Nina & Iain Till
+
+<hr />
+
+*Wir können den Wind nicht ändern,* <br/>
+*aber die Segel anders setzen.*
+
+Jetzt geht es endlich "gleich" los und wir wünschen euch eine wundervolle Zeit! ❤️
+
+#### - Patrick & Laura
