@@ -4992,7 +4992,7 @@ body {
 
 .header {
   position: relative;
-  background-image: url("/images/header.jpg");
+  background-image: url("/images/header-mobile.jpg");
   background-size: cover;
   padding-top: 100px;
   height: 260px; }
@@ -5021,7 +5021,8 @@ body {
 
 @media (min-width: 576px) {
   .header {
-    padding-top: 120px; }
+    padding-top: 120px;
+    background-image: url("/images/header-tablet.jpg"); }
   .header-home {
     padding-top: 140px; } }
 
@@ -5033,6 +5034,8 @@ body {
     height: 380px; } }
 
 @media (min-width: 992px) {
+  .header {
+    background-image: url("/images/header.jpg"); }
   .header-home {
     padding-top: 180px;
     height: 500px; }
