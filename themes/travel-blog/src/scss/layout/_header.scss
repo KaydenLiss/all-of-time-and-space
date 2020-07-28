@@ -1,6 +1,6 @@
 .header {
   position: relative;
-  background-image: url("/images/header-mobile.jpg");
+  background-image: url("/images/header/header-mobile.webp");
   background-size: cover;
   padding-top: 100px;
   height: 260px;
@@ -42,7 +42,7 @@
 @include media-breakpoint-up(sm) {
   .header {
     padding-top: 120px;
-    background-image: url("/images/header-tablet.jpg");
+    background-image: url("/images/jeader/header-tablet.webp");
   }
 
   .header-home {
@@ -63,7 +63,7 @@
 
 @include media-breakpoint-up(lg) {
   .header {
-    background-image: url("/images/header.jpg");
+    background-image: url("/images/header/header.webp");
   }
 
   .header-home {

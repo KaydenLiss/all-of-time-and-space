@@ -55,7 +55,7 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: Roboto;
+  --font-family-sans-serif: Roboto, Calibri, sans-serif;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
@@ -74,7 +74,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: Roboto;
+  font-family: Roboto, Calibri, sans-serif;
   font-size: 1.125rem;
   font-weight: 400;
   line-height: 1.7;
@@ -321,7 +321,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 2rem;
-  font-family: Kaushan;
+  font-family: Kaushan, "Brush Script MT", serif;
   font-weight: 500;
   line-height: 1.2; }
 
@@ -4992,7 +4992,7 @@ body {
 
 .header {
   position: relative;
-  background-image: url("/images/header.jpg");
+  background-image: url("/images/header/header-mobile.webp");
   background-size: cover;
   padding-top: 100px;
   height: 260px; }
@@ -5021,7 +5021,8 @@ body {
 
 @media (min-width: 576px) {
   .header {
-    padding-top: 120px; }
+    padding-top: 120px;
+    background-image: url("/images/jeader/header-tablet.webp"); }
   .header-home {
     padding-top: 140px; } }
 
@@ -5033,6 +5034,8 @@ body {
     height: 380px; } }
 
 @media (min-width: 992px) {
+  .header {
+    background-image: url("/images/header/header.webp"); }
   .header-home {
     padding-top: 180px;
     height: 500px; }
