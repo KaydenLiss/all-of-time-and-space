@@ -4,11 +4,11 @@ date: 2020-07-26T17:27:25+02:00
 author: "Kayliz"
 categories: "Germany"
 type: "post"
-description: "Lilo and Mike were originally due to leave in May, but their journey had to be postponed due to the pandemic. Now they are finally ready to set off on their adventures, and their friends want to wish them all the best..."
+description: "Lilo and Mike were originally due to leave in May, but their journey had to be postponed because of the pandemic. Now they are finally ready to set off on their adventures, and their friends want to wish them all the best..."
 draft: false
 ---
 
-Lilo and Mike were originally due to leave in May, but their journey had to be postponed due to the pandemic. <br />
+Lilo and Mike were originally due to leave in May, but their journey had to be postponed because of the pandemic. <br />
 Now they are finally ready to set off on their adventures, and their friends want to wish them all the best...
 
 
@@ -120,3 +120,15 @@ The world is your oyster, go and find the pearls. Have fun, try everything, stay
 Jetzt geht es endlich "gleich" los und wir wünschen euch eine wundervolle Zeit! ❤️
 
 #### - Patrick & Laura
+
+<hr />
+
+Hallo ihr Zwei,
+
+ihr macht euch einen Traum wahr! Das ist so wunderschön und ich bin auch etwas neidisch. Ich wünsche euch die schönste Zeit und tolle Eindrücke, viele Reiseerfahrungen und immer perfektes Wetter :)
+
+Ich freu mich schon auf viele Fotos :)
+
+*drück
+
+#### - Timo
