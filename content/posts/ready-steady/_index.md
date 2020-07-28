@@ -132,3 +132,13 @@ Ich freu mich schon auf viele Fotos :)
 *drück
 
 #### - Timo
+
+<hr />
+
+Heutzutage eine Reise anzutreten, die länger dauert als eine halbe Woche ist praktisch undenkbar in der Gesellschaft in der wir leben (außer man ist sehr alt oder schandhaft reich). Wenn der Mensch von Welt sich heute auf Reisen begibt, tut er dies um an einem fest definiertem Ziel für meist eine fest definierte Zeit anzukommen und zu bleiben. Die Reise ist dabei notwendiges Mühsal um zum ersehnten Ziel zu kommen, welches im Rahmen der Reisevorbereitung als paradisischer Sehnsuchtsort glorifiziert wird. Aber dieser bitte mit Hotel, deutschem Bier und bekanntem Fast Food.
+
+Eure Reise stellt dabei einen erfrischenden Gegenentwurf zu modernen, jedoch alternden Reisevorstellungen dar. Ich will sogar so weit gehen und sagen, dass es mich inspiriert allein davon zu hören und zu wissen, was ihr da macht. Ich wünsche euch von Herzen alles Gute auf eurer Reise, ein gesundes Maß an Abenteuern und halte, falls ihr mal in meine Nähe kommt, meine Tür jederzeit für euch offen.
+
+Gute Fahrt
+
+#### - Levin-Can
