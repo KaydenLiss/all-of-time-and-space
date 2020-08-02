@@ -1,8 +1,14 @@
 <footer class="footer bg-primary text-center">
-    <div class="social-icons">
-        <a class="social-icon" target="_blank" href="{{.Site.Params.Twitter}}"><i class="fab fa-twitter"></i></a>
-        <a class="social-icon" target="_blank" href="{{.Site.Params.Insta}}"><i class="fab fa-instagram"></i></a>
-    </div>
+    {{ if or (.Site.Params.Twitter) (.Site.Params.Insta) }}
+        <div class="social-icons">
+            {{ if .Site.Params.Twitter }}
+                <a class="social-icon" target="_blank" href="{{.Site.Params.Twitter}}"><i class="fab fa-twitter"></i></a>
+            {{ end }}
+            {{ if .Site.Params.Insta }}
+                <a class="social-icon" target="_blank" href="{{.Site.Params.Insta}}"><i class="fab fa-instagram"></i></a>
+            {{ end }}
+        </div>
+    {{ end }}
     <div class="footer-menu">
         <a href="/" class="nav-link">Home</a>
         <a href="/posts" class="nav-link">Posts</a>

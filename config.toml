@@ -6,8 +6,8 @@ publishDir = "docs"
 
 [params]
   description = "Lilo and Mike's Travel Blog"
-  twitter = "https://twitter.com/craftyLilo"
-  insta = "https://www.instagram.com/"
+  twitter = ""
+  insta = ""
 
 [markup.goldmark.renderer]
   unsafe= true
