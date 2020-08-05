@@ -142,3 +142,12 @@ Eure Reise stellt dabei einen erfrischenden Gegenentwurf zu modernen, jedoch alt
 Gute Fahrt
 
 #### - Levin-Can
+
+<hr />
+
+*Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colours. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.*
+
+We hope you have a fantastic trip filled with joy and adventure (and not too many potholes). </br>
+Hopefully see you soon in the homeland of the Nac Mac Feegle!
+
+#### - David & Lorna
