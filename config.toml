@@ -9,5 +9,15 @@ publishDir = "docs"
   twitter = ""
   insta = ""
 
+  [params.sections]
+    adventures = "Check out their most recent adventure!"
+    countries = "Check out the places they've been!"
+
+  [params.countries.germany]
+    name = "Germany"
+    [params.countries.germany.visits.0]
+      date = "August 8, 2020 - Now"
+      text = "Lilo and Mike set out from Regensburg on August 8, 2020. They are currently making their way north."
+
 [markup.goldmark.renderer]
   unsafe= true

@@ -10,7 +10,7 @@
     // hide country info and set all flags and map areas to unclicked
     function reset () {
         infoBoxes.forEach((box) => {
-            box.classList.remove(hiddenClass);
+            box.classList.add(hiddenClass);
         });
 
         flags.forEach((flag) => {
