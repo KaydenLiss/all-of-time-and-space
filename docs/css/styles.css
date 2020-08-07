@@ -5106,7 +5106,8 @@ section:last-child {
 .flag {
   cursor: pointer;
   position: relative;
-  line-height: 0; }
+  line-height: 0;
+  margin-bottom: 2rem; }
   .flag .flag-text {
     position: absolute;
     bottom: 0;

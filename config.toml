@@ -13,11 +13,46 @@ publishDir = "docs"
     adventures = "Check out their most recent adventure!"
     countries = "Check out the places they've been!"
 
+  [params.countries.austria]
+    name = "Austria"
+  [params.countries.belgium]
+    name = "Belgium"
+  [params.countries.britain]
+    name = "Great Britain"
+  [params.countries.denmark]
+    name = "Denmark"
+  [params.countries.faroe]
+    name = "Faroe Islands"
+  [params.countries.finland]
+    name = "Finland"
+  [params.countries.france]
+    name = "France"
   [params.countries.germany]
+    enabled = true
     name = "Germany"
     [params.countries.germany.visits.0]
       date = "August 8, 2020 - Now"
       text = "Lilo and Mike set out from Regensburg on August 8, 2020. They are currently making their way north."
+  [params.countries.iceland]
+    name = "Iceland"
+  [params.countries.ireland]
+    name = "Ireland"
+  [params.countries.italy]
+    name = "Italy"
+  [params.countries.luxembourg]
+    name = "Luxembourg"
+  [params.countries.netherlands]
+    name = "Netherlands"
+  [params.countries.norway]
+    name = "Norway"
+  [params.countries.portugal]
+    name = "Portugal"
+  [params.countries.spain]
+    name = "Spain"
+  [params.countries.sweden]
+    name = "Sweden"
+  [params.countries.switzerland]
+    name = "Switzerland"
 
 [markup.goldmark.renderer]
   unsafe= true
