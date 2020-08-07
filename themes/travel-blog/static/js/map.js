@@ -78,12 +78,22 @@
         });
     }
 
+    function initMapAreas () {
+        const map = document.querySelector('#map');
+
+        flags.forEach((flag) => {
+            map.querySelector('#' + flag.dataset.country).classList.add('country');
+        });
+
+        mapAreas = document.querySelectorAll('.country');
+    }
+
     // initialize elements
     function init () {
         flags = document.querySelectorAll('.flag');
-        mapAreas = document.querySelectorAll('.country');
         infoBoxes = document.querySelectorAll('.country-info');
 
+        initMapAreas();
         initClickListeners();
         initHoverListeners();
     }
