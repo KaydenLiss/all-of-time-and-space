@@ -11,6 +11,10 @@ Travel Blog built with Hugo
 
 The website should now be running under http://localhost:1313/.
 
+### Installation on Windows
+
+If this is the only Hugo Project you plan on running locally, the quickest way to get started is to download the latest release on https://github.com/gohugoio/hugo/releases and put it in the root folder of the project.
+
 ## Create a new post
 
 1. Navigate to the project via command line (Eingabeaufforderung) using cd
