@@ -1,0 +1,39 @@
+{{ if eq .Page.Type "post" }}
+    <li class="col-lg-6">
+        <a href="{{ .RelPermalink }}" class="teaser bg-primary">
+            <div class="teaser-image">
+                {{ $img := .Resources.GetMatch "preview.*" }}
+                {{ if $img }}
+                    <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                {{ end }}
+            </div>
+            <div class="article-teaser">
+                <h3 class="article-teaser--head">
+                    {{ .Title }}
+                </h3>
+                <p>
+                    {{ .Date.Format "January 2, 2006" }} by {{ .Param "author" }}
+                </p>
+            </div>
+        </a>
+    </li>
+{{ else }}
+    <li class="col-lg-6">
+        <a href="{{ .Page.RelPermalink }}" class="teaser bg-primary">
+            <div class="teaser-image">
+                {{ $img := .Page.Resources.GetMatch "preview.*" }}
+                {{ if $img }}
+                    <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Page.Title }}" />
+                {{ end }}
+            </div>
+            <div class="article-teaser">
+                <h3 class="article-teaser--head">
+                    {{ .Page.Title }}
+                </h3>
+                <p>
+                    {{ len .Page.Pages }} adventures
+                </p>
+            </div>
+        </a>
+    </li>
+{{ end }}

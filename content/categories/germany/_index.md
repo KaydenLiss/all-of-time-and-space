@@ -1,3 +1,4 @@
 ---
 title: "Germany"
+group: "countries"
 ---

@@ -5164,7 +5164,8 @@ section:last-child {
       color: #b4bed1; }
 
 .post-list {
-  list-style: none; }
+  list-style: none;
+  padding: 0; }
   .post-list .teaser {
     display: flex;
     flex-direction: row;

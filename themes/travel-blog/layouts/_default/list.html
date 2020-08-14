@@ -1,46 +1,29 @@
 {{ define "main" }}
    {{ .Content }}
-    <ul class="post-list row">
-        {{ range .Pages }}
-            {{ if eq .Type "post" }}
-                <li class="col-lg-6">
-                    <a href="{{ .RelPermalink }}" class="teaser bg-primary">
-                        <div class="teaser-image">
-                            {{ $img := .Resources.GetMatch "preview.*" }}
-                            {{ if $img }}
-                                <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
-                            {{ end }}
-                        </div>
-                        <div class="article-teaser">
-                            <h3 class="article-teaser--head">
-                                {{ .Title }}
-                            </h3>
-                            <p>
-                                {{ .Date.Format "January 2, 2006" }} by {{ .Param "author" }}
-                            </p>
-                        </div>
-                    </a>
-                </li>
-            {{ else }}
-                <li class="col-lg-6">
-                    <a href="{{ .RelPermalink }}" class="teaser bg-primary">
-                        <div class="teaser-image">
-                            {{ $img := .Resources.GetMatch "preview.*" }}
-                            {{ if $img }}
-                                <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
-                            {{ end }}
-                        </div>
-                        <div class="article-teaser">
-                            <h3 class="article-teaser--head">
-                                {{ .Title }}
-                            </h3>
-                            <p>
-                                {{ len .Pages }} adventures
-                            </p>
-                        </div>
-                    </a>
-                </li>
-            {{ end }}
+    {{ if and (eq .Name "Categories") .Site.Params.categoryGroups.enabled }}
+        {{ range $elem_key, $elem_value := .Site.Params.categoryGroups.groups }}
+            <h2>{{ $elem_value }}</h2>
+            <ul class="post-list row">
+                {{ range $.Site.Taxonomies.categories }}
+                    {{ if eq .Page.Params.group $elem_key}}
+                        {{- partial "page-preview.html" . -}}
+                    {{ end }}
+                {{end}}
+            </ul>
         {{ end }}
-    </ul>
+        <h2>Other</h2>
+        <ul class="post-list row">
+            {{ range .Site.Taxonomies.categories }}
+                {{ if eq (isset .Page.Params "group") false }}
+                    {{- partial "page-preview.html" . -}}
+                {{ end }}
+            {{end}}
+        </ul>
+    {{ else }}
+        <ul class="post-list row">
+            {{ range .Pages }}
+                {{- partial "page-preview.html" . -}}
+            {{ end }}
+        </ul>
+    {{ end }}
 {{ end }}

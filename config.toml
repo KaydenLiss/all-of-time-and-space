@@ -13,6 +13,11 @@ publishDir = "docs"
     adventures = "Check out their most recent adventure!"
     countries = "Check out the places they've been!"
 
+  [params.categoryGroups]
+    enabled = false
+    [params.categoryGroups.groups]
+        countries = "Countries"
+
   [params.countries.austria]
     name = "Austria"
   [params.countries.belgium]
