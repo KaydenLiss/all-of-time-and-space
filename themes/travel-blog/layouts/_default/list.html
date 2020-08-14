@@ -1,8 +1,8 @@
 {{ define "main" }}
    {{ .Content }}
-       {{ if eq .Type "posts" }}
-        <ul class="post-list row">
-            {{ range .Pages }}
+    <ul class="post-list row">
+        {{ range .Pages }}
+            {{ if eq .Type "post" }}
                 <li class="col-lg-6">
                     <a href="{{ .RelPermalink }}" class="teaser bg-primary">
                         <div class="teaser-image">
@@ -16,28 +16,31 @@
                                 {{ .Title }}
                             </h3>
                             <p>
-                                {{ .Date.Format "January 2, 2006" }}, by {{ .Param "author" }}
+                                {{ .Date.Format "January 2, 2006" }} by {{ .Param "author" }}
+                            </p>
+                        </div>
+                    </a>
+                </li>
+            {{ else }}
+                <li class="col-lg-6">
+                    <a href="{{ .RelPermalink }}" class="teaser bg-primary">
+                        <div class="teaser-image">
+                            {{ $img := .Resources.GetMatch "preview.*" }}
+                            {{ if $img }}
+                                <img class="img-fluid" src="{{ $img.RelPermalink }}" alt="{{ .Title }}" />
+                            {{ end }}
+                        </div>
+                        <div class="article-teaser">
+                            <h3 class="article-teaser--head">
+                                {{ .Title }}
+                            </h3>
+                            <p>
+                                {{ len .Pages }} adventures
                             </p>
                         </div>
                     </a>
                 </li>
             {{ end }}
-        </ul>
-    {{ else }}
-        <ul>
-            {{ range .Pages }}
-                <li>
-                    <a class="page-link" href="{{.Permalink}}">
-                        <span class="page-link__title">{{.Title}}</span>
-                        <span class="page-link__meta">
-                            {{ .Date.Format "January 2, 2006" }}
-                            {{ if .Param "author" }}
-                                , by {{ .Param "author" }}
-                            {{ end }}
-                        </span>
-                    </a>
-                </li>
-            {{ end }}
-        </ul>
-   {{ end }}
+        {{ end }}
+    </ul>
 {{ end }}
