@@ -31,8 +31,8 @@ publishDir = "docs"
     enabled = true
     name = "Germany"
     [params.countries.germany.visits.0]
-      date = "August 8, 2020 - Now"
-      text = "Lilo and Mike set out from Regensburg on August 8, 2020. They are currently making their way north."
+      date = "August 9, 2020 - Now"
+      text = "Lilo and Mike set out from Regensburg on August 9, 2020. They are currently making their way north."
   [params.countries.iceland]
     name = "Iceland"
   [params.countries.ireland]
