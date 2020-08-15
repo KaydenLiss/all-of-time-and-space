@@ -23,7 +23,25 @@ footsteps of everyone's favourite time-lord to experience as much as they possib
 can of the world.
 
 </div><div class="col-12 col-lg-6">
+<div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
 
 ![Lilo and Mike on their wedding day](lilo-and-mike.jpg)
 
+</div><div class="swiper-slide">
+
+![Lilo and Mike on their wedding day](kiss.jpg)
+
+</div><div class="swiper-slide">
+
+![Lilo and Mike with Atlas](atlas.jpg)
+
+</div><div class="swiper-slide">
+
+![Lilo and Mike](sepia.jpg)
+
+</div><div class="swiper-slide">
+
+![Lilo and Mike making a <3 with their hands](heart.jpg)
+
+</div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
 </div></div>
