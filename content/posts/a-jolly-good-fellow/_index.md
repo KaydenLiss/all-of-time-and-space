@@ -4,11 +4,11 @@ date: 2020-08-14T22:44:41+02:00
 author: "Lilo"
 categories: "Germany"
 type: "post"
-description: "Mikes' birthday was spent trying to fight against anything and everything that tried to ruin the day. However, Atlas the campervan (also known lovingly as the \"old man\") had other plans."
+description: "Mike's birthday was spent trying to fight against anything and everything that tried to ruin the day. However, Atlas the campervan (also known lovingly as the \"old man\") had other plans."
 draft: false
 ---
 
-Yesterday was Mikes’ birthday. Can you believe it, he is actually old now. Since I am seven months younger I take great joy in reminding him of that fact. Every year. See why our relationship works so well?
+Yesterday was Mike’s birthday. Can you believe it, he is actually old now. Since I am seven months younger I take great joy in reminding him of that fact. Every year. See why our relationship works so well?
 
 The day started out only semi-good. The spot we had chosen to camp at the previous night (near Neumarkt i.d. Opf) turned out to be right by a large traffic road and a building site, which meant we were woken loudly when the rest of the world decided they wanted to do nothing more than get to work. So very German, honestly.
 
@@ -30,13 +30,13 @@ Which meant we had to get professional help. We both knew there was nothing we c
 
 This morning our wake-up was a lot nicer. Our good friend Bea decided that she would personally improve our situation, so she brought us fresh rolls, juice and apple cake for breakfast. It’s amazing how the prospect of cake can make any negative feelings go away.
 
-It certainly was a blessing for us, since the rest of the day way so exhausting. Mike tried calling around to see if there was a garage nearby that would have a look at Atlas. Mostly...no. The general suggestion was that we are in the middle of campervan season, so we should have planned our unscheduled learning opportunity better. Next time we will make sure all our damages occur between November and March.
+It certainly was a blessing for us, since the rest of the day was so exhausting. Mike tried calling around to see if there was a garage nearby that would have a look at Atlas. Mostly...no. The general suggestion was that we are in the middle of campervan season, so we should have planned our unscheduled learning opportunity better. Next time we will make sure all our damages occur between November and March.
 
-It took a while but eventually we found a garage that agreed to let us come by and maybe do some damage assessment, if they had time. We were again reminded that it is campervan season, so we should expect some waiting time.
+It took a while, but eventually we found a garage that agreed to let us come by and maybe do some damage assessment, if they had time. We were again reminded that it is campervan season, so we should expect some waiting time.
 
 Since we really like using water in our car, we went by. The lady at the desk told us we should go out and wait in the car, someone would come out when they had time to look at the campervan. So we did as we were told and waited. And waited some more. And then we slept a bit, before we did some more waiting. After four hours we decided to go in and double check they hadn’t forgotten us. The lady at the desk (a different lady this time and apparently the woman who had been on the phone), was shocked that we hadn’t come in earlier, because of course someone had time to look at Atlas. We were so excited to have someone take the time to help us that we didn’t bother correcting her.
 
-The car mechanic who came to look at the damage was nice. Sadly he is no miracle worker. He took one look at the bottom of the sink and I swear he recoiled a bit. He explained to us that he could fix the pipe. His guess was that two of the bottom pipes had just loosened a bit and all that would have to be done was for them to be stuck back together again. No bother.
+The car mechanic who came to look at the damage was nice. Sadly, he is no miracle worker. He took one look at the bottom of the sink and I swear he recoiled a bit. He explained to us that he could fix the pipe. His guess was that two of the bottom pipes had just loosened a bit and all that would have to be done was for them to be stuck back together again. No bother.
 
 But.
 
@@ -46,10 +46,11 @@ The decision was made there and then that we would do it ourselves. According to
 
 After the conversation we tried to weigh our options, but really there wasn’t much to do. There was a possibility for us to fix it and one good option to do it. So we turned around and headed back to Regensburg.
 
-It was good timing, too. Just as we arrived back the firebrigade was leaving. Apparently there had been too much rain and the cellar got flooded. Cleaning it was a lot easier with four people than it would have been with two, I imagine.
+It was good timing, too. Just as we arrived back, the firebrigade was leaving. Apparently there had been too much rain and the cellar had got flooded. Cleaning it was a lot easier with four people than it would have been with two, I imagine.
 
 Mike has spent some time with the pipes, but it’s still work in progress. We have no idea how long we will need and when we can be on the road again. But with any luck it will be soon and we will finally be able to start our trip properly.
-Until then we will do the two most important things: keep calm and cuddle the cat.
+
+Until then, we will do the two most important things: Keep calm and cuddle the cat.
 
 Lilo
 
