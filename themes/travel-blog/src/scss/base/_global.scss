@@ -1,5 +1,6 @@
-.bg-primary {
-  color: $body-color-light;
+.bg-primary,
+.text-light {
+  color: $body-color-light !important;
 }
 
 img,

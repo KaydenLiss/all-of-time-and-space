@@ -4974,8 +4974,9 @@ a.text-dark:hover, a.text-dark:focus {
 .invisible {
   visibility: hidden !important; }
 
-.bg-primary {
-  color: #dee2e6; }
+.bg-primary,
+.text-light {
+  color: #dee2e6 !important; }
 
 img,
 svg {
