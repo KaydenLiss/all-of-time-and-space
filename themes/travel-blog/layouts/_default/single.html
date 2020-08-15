@@ -5,4 +5,7 @@
     <div class="container">
         {{ .Content }}
     </div>
+    {{ if eq .Type "post" }}
+        {{- partial "post-menu.html" . -}}
+    {{ end }}
 {{ end }}

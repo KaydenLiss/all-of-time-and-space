@@ -3,14 +3,20 @@
         {{ if .Prev }}
             {{ if eq .Prev.Type "post" }}
                 <li class="nav-item prev">
-                    <a href="{{ .Prev.RelPermalink }}" class="nav-link">Previous</a>
+                    <a href="{{ .Prev.RelPermalink }}" class="nav-link">
+                        <i class="fas fa-arrow-left"></i>
+                        <span>Previous</span>
+                    </a>
                 </li>
             {{ end }}
         {{ end }}
         {{ if .Next }}
             {{ if eq .Next.Type "post" }}
                 <li class="nav-item next">
-                    <a href="{{ .Next.RelPermalink }}" class="nav-link">Next</a>
+                    <a href="{{ .Next.RelPermalink }}" class="nav-link">
+                        <span>Next</span>
+                        <i class="fas fa-arrow-right"></i>
+                    </a>
                 </li>
             {{ end }}
         {{ end }}
