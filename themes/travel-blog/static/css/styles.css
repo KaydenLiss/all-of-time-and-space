@@ -5078,6 +5078,8 @@ body {
 section {
   padding-top: 80px;
   padding-bottom: 80px; }
+  section.content-post {
+    padding-top: 0; }
 
 section:last-child {
   margin-bottom: 0; }
@@ -5162,6 +5164,14 @@ section:last-child {
     color: #dee2e6; }
     .main-navigation .nav-link:hover {
       color: #b4bed1; }
+
+.post-navigation {
+  padding-bottom: 60px; }
+  .post-navigation .navbar-nav {
+    width: 100%;
+    flex-direction: row; }
+  .post-navigation .next {
+    margin-left: auto; }
 
 .post-list {
   list-style: none;

@@ -4,10 +4,8 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <section id="content">
-            <div class="container">
-                {{- block "main" . }}{{- end }}
-            </div>
+        <section id="content" class="content-{{ .Type }}">
+            {{- block "main" . }}{{- end }}
         </section>
         {{- partial "footer.html" . -}}
     </body>

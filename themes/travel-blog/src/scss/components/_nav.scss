@@ -12,3 +12,16 @@
     }
   }
 }
+
+.post-navigation {
+  padding-bottom: 60px;
+
+  .navbar-nav {
+    width: 100%;
+    flex-direction: row;
+  }
+
+  .next {
+    margin-left: auto;
+  }
+}

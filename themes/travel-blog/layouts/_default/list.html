@@ -1,29 +1,31 @@
 {{ define "main" }}
-   {{ .Content }}
-    {{ if and (eq .Name "Categories") .Site.Params.categoryGroups.enabled }}
-        {{ range $elem_key, $elem_value := .Site.Params.categoryGroups.groups }}
-            <h2>{{ $elem_value }}</h2>
+    <div class="container">
+        {{ .Content }}
+        {{ if and (eq .Name "Categories") .Site.Params.categoryGroups.enabled }}
+            {{ range $elem_key, $elem_value := .Site.Params.categoryGroups.groups }}
+                <h2>{{ $elem_value }}</h2>
+                <ul class="post-list row">
+                    {{ range $.Site.Taxonomies.categories }}
+                        {{ if eq .Page.Params.group $elem_key}}
+                            {{- partial "page-preview.html" . -}}
+                        {{ end }}
+                    {{end}}
+                </ul>
+            {{ end }}
+            <h2>Other</h2>
             <ul class="post-list row">
-                {{ range $.Site.Taxonomies.categories }}
-                    {{ if eq .Page.Params.group $elem_key}}
+                {{ range .Site.Taxonomies.categories }}
+                    {{ if eq (isset .Page.Params "group") false }}
                         {{- partial "page-preview.html" . -}}
                     {{ end }}
                 {{end}}
             </ul>
-        {{ end }}
-        <h2>Other</h2>
-        <ul class="post-list row">
-            {{ range .Site.Taxonomies.categories }}
-                {{ if eq (isset .Page.Params "group") false }}
+        {{ else }}
+            <ul class="post-list row">
+                {{ range .Pages }}
                     {{- partial "page-preview.html" . -}}
                 {{ end }}
-            {{end}}
-        </ul>
-    {{ else }}
-        <ul class="post-list row">
-            {{ range .Pages }}
-                {{- partial "page-preview.html" . -}}
-            {{ end }}
-        </ul>
-    {{ end }}
+            </ul>
+        {{ end }}
+    </div>
 {{ end }}
