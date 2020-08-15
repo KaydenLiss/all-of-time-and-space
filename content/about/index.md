@@ -33,6 +33,10 @@ can of the world.
 
 </div><div class="swiper-slide">
 
+![Lilo and Mike with Atlas](atlas2.jpg)
+
+</div><div class="swiper-slide">
+
 ![Lilo and Mike with Atlas](atlas.jpg)
 
 </div><div class="swiper-slide">
