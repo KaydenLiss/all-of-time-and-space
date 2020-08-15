@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All of Time and Space</title>
+    <title>Travelling through time and space together on All of Time and Space</title>
     <link>http://all-of-time-and-space.de/</link>
-    <description>Recent content on All of Time and Space</description>
+    <description>Recent content in Travelling through time and space together on All of Time and Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 16:07:26 +0200</lastBuildDate>
     
 	<atom:link href="http://all-of-time-and-space.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Travelling through time and space together</title>
-      <link>http://all-of-time-and-space.de/</link>
-      <pubDate>Fri, 10 Apr 2020 16:07:26 +0200</pubDate>
+      <title>About Lilo and Mike</title>
+      <link>http://all-of-time-and-space.de/about/</link>
+      <pubDate>Mon, 18 May 2020 22:15:31 +0200</pubDate>
       
-      <guid>http://all-of-time-and-space.de/</guid>
-      <description>Lilo and Mike are recently married and have set off in their TARDIS, which goes by the name of Atlas, to explore all of time and space together. Atlas&amp;rsquo; chameleon circuit is, of course, working, and as Lilo and Mike are currently travelling in 21st century Europe, it has taken on the appearance of a campervan.</description>
+      <guid>http://all-of-time-and-space.de/about/</guid>
+      <description>Lilo and Mike got married in April 2020. Their journey was delayed by Covid-19, but now they have left everything behind to go on the journey of a lifetime with nothing but their TARDIS (aka campervan), Atlas.
+Lilo has trained as a nurse. Her hobbies include drawing, crafts, digital art and writing stories - hopefully she&amp;rsquo;ll find time for those in between adventures!
+Mike is a stone mason and a fantastic cook.</description>
     </item>
     
   </channel>

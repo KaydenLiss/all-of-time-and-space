@@ -2,7 +2,6 @@
 title: About Lilo and Mike
 date: 2020-05-18T22:15:31+02:00
 draft: false
-layout: "single"
 ---
 
 Lilo and Mike got married in April 2020. Their journey was delayed by Covid-19,
