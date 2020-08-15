@@ -151,3 +151,15 @@ We hope you have a fantastic trip filled with joy and adventure (and not too man
 Hopefully see you soon in the homeland of the Nac Mac Feegle!
 
 #### - David & Lorna
+
+<hr />
+
+*Some people live more in twenty years than others do in eighty. It's not the time that matters, it's the person.*
+
+The time has finally come, and you are about to leave to travel around Europe. For months, you two have waited to set sail with your RV and have worked and worked to make it happen. You have been married for about four months now, and we sincerely hope countless months of exuberance and laughter will follow.
+
+In the last several months and years, you have embedded yourselves in our minds and hearts, and one thing you can be sure of is, wherever you end up, we won't be far away.
+
+We wish you all the best for your travels and whatever trails life draws you towards.
+
+#### - Sandra & Max
