@@ -12,6 +12,9 @@ publishDir = "docs"
   [params.sections]
     adventures = "Check out their most recent adventure!"
     countries = "Check out the places they've been!"
+    [params.sections.newsletter]
+      title = "Sign up for their newsletter!"
+      text = "Lilo and Mike will send out a newsletter to let you know whenever a new blog post has been published."
 
   [params.categoryGroups]
     enabled = false

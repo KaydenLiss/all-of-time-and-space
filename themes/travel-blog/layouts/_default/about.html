@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "nav.html" . -}}
+        {{- partial "header.html" . -}}
+        <section id="content" class="content-{{ .Type }}">
+            <div class="container">
+                {{ .Content }}
+            </div>
+        </section>
+        {{- partial "newsletter.html" . -}}
+        {{- partial "footer.html" . -}}
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>
