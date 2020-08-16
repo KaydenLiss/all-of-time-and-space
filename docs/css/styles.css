@@ -5086,6 +5086,9 @@ section {
 section:last-child {
   margin-bottom: 0; }
 
+#newsletter {
+  padding-top: 0; }
+
 .article-teaser--head {
   margin-bottom: 1rem;
   font-size: 1.40625rem; }
@@ -5200,6 +5203,9 @@ section:last-child {
 @media (min-width: 992px) {
   .post-navigation {
     padding: 1rem 2rem; } }
+
+.newsletter-form form {
+  padding: 0; }
 
 .post-list {
   list-style: none;
