@@ -1,9 +1,7 @@
 <section id="newsletter">
-    <div class="container">
-        <div class="text-center text-lg-left">
-            <h2>{{ .Site.Params.sections.newsletter.title }}</h2>
-            <p>{{ .Site.Params.sections.newsletter.text }}</p>
-        </div>
+    <div class="container text-center">
+        <h2>{{ .Site.Params.sections.newsletter.title }}</h2>
+        <p>{{ .Site.Params.sections.newsletter.text }}</p>
         {{- partial "newsletter-form.html" . -}}
     </div>
 </section>
