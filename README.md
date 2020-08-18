@@ -20,7 +20,7 @@ If this is the only Hugo Project you plan on running locally, the quickest way t
 1. Navigate to the project via command line (Eingabeaufforderung) using cd (cd documents -> cd git -> cd all-of-time-and-space)
 2. Make sure your repository is up to date by running ```git pull```
 3. If project is not running, run ```hugo.exe serve```
-4. Create the post with ```hugo.exe new posts/NAME-OF-POST/index.md```
+4. Create the post with ```hugo.exe new posts/NAME-OF-POST/_index.md```
 5. Adjust meta-data as needed, add
     * author
     * description (for preview on front page)
