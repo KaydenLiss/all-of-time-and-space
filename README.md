@@ -31,5 +31,7 @@ If this is the only Hugo Project you plan on running locally, the quickest way t
 8. Check your changes under http://localhost:1313/
 9. Build the project by running ```hugo.exe``` on the command line
 10. Check your changes using ```git status``` or ``git diff```
-11. Add and commit your changes using ```git commit -a -m "YOUR COMMIT MESSAGE"``` (Commit message can be something like "added new article" or "changed about page")
+11. Add your changes using ```git add *```
+12. Commit your changes using ```git commit -a -m "YOUR COMMIT MESSAGE"``` (Commit message can be something like "added new article" or "changed about page")
+13. Run ```git status``` again to make sure you have no uncommitted changes
 12. Push your changes using ```git push```
