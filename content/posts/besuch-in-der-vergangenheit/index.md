@@ -28,19 +28,15 @@ Mike
 
 <div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
 
-![Die Burgbrücke](bruecke.jpg)
-
-</div><div class="swiper-slide">
-
-![Menschen](menschen.jpg)
-
-</div><div class="swiper-slide">
-
 ![Die Burg](burg.jpg)
 
 </div><div class="swiper-slide">
 
 ![Die Aussicht von der Burg](aussicht.jpg)
+
+</div><div class="swiper-slide">
+
+![Menschen](menschen.jpg)
 
 </div><div class="swiper-slide">
 
