@@ -8,10 +8,6 @@ description: "Mike und Lilo haben die Wertheimer Altstadt und Burg besucht und d
 draft: false
 ---
 
-
-
-
-
 Grüße an alle Freunde, die des Englischen nicht mächtig sind! Exklusiv und nur für euch gibts jetzt den ersten Eintrag KOMPLETT AUF DEUTSCH vom manischen Michi.
 Das bin ich!
 
@@ -29,3 +25,45 @@ War auf jeden Fall ein interessanter Besuch in Wertheim und ich kann euch nur em
 So, das war mein erster Post im großen weiten Internet überhaupt. Mal gucken, obs Wellen schlägt.
 
 Mike
+
+<div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
+
+![Die Burgbrücke](bruecke.jpg)
+
+</div><div class="swiper-slide">
+
+![Menschen](menschen.jpg)
+
+</div><div class="swiper-slide">
+
+![Die Burg](burg.jpg)
+
+</div><div class="swiper-slide">
+
+![Die Aussicht von der Burg](aussicht.jpg)
+
+</div><div class="swiper-slide">
+
+![Maßwerk](masswerk.jpg)
+
+</div><div class="swiper-slide">
+
+![Maßwerk](masswerk2.jpg)
+
+</div><div class="swiper-slide">
+
+![Maßwerkgeländer](gelaender.jpg)
+
+</div><div class="swiper-slide">
+
+![Kilianskapelle](kapelle.jpg)
+
+</div><div class="swiper-slide">
+
+![Portal der Kilianskapelle](portal.jpg)
+
+</div><div class="swiper-slide">
+
+![Hodenaffe bei der Kilianskapelle](hodenaffe.jpg)
+
+</div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
