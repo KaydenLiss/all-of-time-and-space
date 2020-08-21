@@ -17,9 +17,10 @@ publishDir = "docs"
       text = "Lilo and Mike will send out a newsletter to let you know whenever a new blog post has been published."
 
   [params.categoryGroups]
-    enabled = false
+    enabled = true
     [params.categoryGroups.groups]
         countries = "Countries"
+        languages = "Languages"
 
   [params.countries.austria]
     name = "Austria"
