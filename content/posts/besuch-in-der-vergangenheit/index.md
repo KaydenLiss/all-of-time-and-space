@@ -2,7 +2,7 @@
 title: "Besuch in der Vergangenheit"
 date: 2020-08-20T12:16:25+02:00
 author: "Mike"
-categories: "Germany"
+categories: ["Germany", "German"]
 type: "post"
 description: "Mike und Lilo haben die Wertheimer Altstadt und Burg besucht und dabei viel Wissenswertes dazugelernt."
 draft: false

@@ -2,7 +2,7 @@
 title: "A Jolly Good Fellow"
 date: 2020-08-14T22:44:41+02:00
 author: "Lilo"
-categories: "Germany"
+categories: ["Germany", "English"]
 type: "post"
 description: "Mike's birthday was spent trying to fight against anything and everything that tried to ruin the day. However, Atlas the campervan (also known lovingly as the \"old man\") had other plans."
 draft: false

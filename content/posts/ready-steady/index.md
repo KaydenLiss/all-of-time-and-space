@@ -2,7 +2,7 @@
 title: "Ready, Steady..."
 date: 2020-07-26T17:27:25+02:00
 author: "Kayliz"
-categories: "Germany"
+categories: ["Germany", "English"]
 type: "post"
 description: "Lilo and Mike were originally due to leave in May, but their journey had to be postponed because of the pandemic. Now they are finally ready to set off on their adventures, and their friends want to wish them all the best..."
 draft: false
