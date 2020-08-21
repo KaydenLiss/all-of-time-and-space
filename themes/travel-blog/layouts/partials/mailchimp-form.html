@@ -1,0 +1,17 @@
+{{ if and .Site.Params.newsletter.mailchimp.u .Site.Params.newsletter.mailchimp.id }}
+    <!-- Begin Mailchimp Signup Form -->
+    <div id="mc_embed_signup" class="newsletter-form">
+        <form action="https://googlemail.us17.list-manage.com/subscribe/post?u={{ .Site.Params.newsletter.mailchimp.u }}&amp;id={{ .Site.Params.newsletter.mailchimp.id }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll" class="form-group form-inline">
+                <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="email address" required>
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-secondary">
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_{{ .Site.Params.newsletter.mailchimp.u }}_{{ .Site.Params.newsletter.mailchimp.id }}" tabindex="-1" value="">
+                </div>
+            </div>
+        </form>
+    </div>
+    <!--End mc_embed_signup-->
+{{ else }}
+    <p class="font-italic">Mailchimp is enabled but not configured</p>
+{{ end }}

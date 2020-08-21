@@ -62,5 +62,12 @@ publishDir = "docs"
   [params.countries.switzerland]
     name = "Switzerland"
 
+  [params.newsletter]
+    enabled = true
+    [params.newsletter.mailchimp]
+      enabled = true
+      u = "5eaa8235dd123164c59ed9c7d"
+      id = "2dfb2d2a77"
+
 [markup.goldmark.renderer]
   unsafe= true
