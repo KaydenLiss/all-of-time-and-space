@@ -4,7 +4,7 @@ date: 2020-08-10T21:08:24+02:00
 author: "Lilo"
 categories: ["Germany", "English"]
 type: "post"
-description: Mike and Lilo have finally left and started on their first adventure... and got as far as the nearest clothes dump.
+description: "Mike and Lilo have finally left and started on their first adventure... and got as far as the nearest clothes dump."
 draft: false
 ---
 
