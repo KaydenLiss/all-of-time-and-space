@@ -22,12 +22,24 @@ publishDir = "docs"
         countries = "Countries"
         languages = "Languages"
 
+
+  [params.countries.germany]
+    enabled = true
+    name = "Germany"
+    [params.countries.germany.visits.0]
+      date = "August 9, 2020 - September 2, 2020"
+      text = "Lilo and Mike set out from Regensburg on August 9, 2020 and made their way north and west, stopping in Würzburg, Frankfurt and Heidelberg."
+  [params.countries.britain]
+    enabled = true
+    name = "Britain"
+    [params.countries.britain.visits.0]
+      date = "September 3, 2020 - Now"
+      text = "Lilo and Mike went through the tunnel and arrived in England on September 3, 2020. They are currently heading towards Scotland."
+
   [params.countries.austria]
     name = "Austria"
   [params.countries.belgium]
     name = "Belgium"
-  [params.countries.britain]
-    name = "Great Britain"
   [params.countries.denmark]
     name = "Denmark"
   [params.countries.faroe]
@@ -36,12 +48,6 @@ publishDir = "docs"
     name = "Finland"
   [params.countries.france]
     name = "France"
-  [params.countries.germany]
-    enabled = true
-    name = "Germany"
-    [params.countries.germany.visits.0]
-      date = "August 9, 2020 - Now"
-      text = "Lilo and Mike set out from Regensburg on August 9, 2020. They are currently making their way north."
   [params.countries.iceland]
     name = "Iceland"
   [params.countries.ireland]
