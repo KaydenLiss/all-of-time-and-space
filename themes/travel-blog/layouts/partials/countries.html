@@ -23,7 +23,7 @@
         <div class="row flags">
             {{ range $elem_key, $elem_value := .Site.Params.countries }}
                 {{ if .enabled }}
-                <div class="col-3 col-md-2">
+                <div class="col-4 col-sm-3 col-md-2">
                     <div id="flag-{{ $elem_key }}" class="flag" data-country="{{ $elem_key }}">
                         <object data="/images/map/flags/{{ $elem_key }}.svg" type="image/svg+xml"></object>
                         <div class="flag-text">{{ .name }}</div>
