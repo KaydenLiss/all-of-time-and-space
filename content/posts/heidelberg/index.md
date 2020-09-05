@@ -44,10 +44,6 @@ Lilo & Mike
 
 </div><div class="swiper-slide">
 
-![Statue](04_statue.jpg)
-
-</div><div class="swiper-slide">
-
 ![Stone Door](05_stone_door.jpg)
 
 </div><div class="swiper-slide">
