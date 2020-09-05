@@ -58,4 +58,8 @@ Lilo & Mike
 
 ![Lilo and Mike at Heidelberg Castle](07_lilo-and-mike.jpg)
 
+</div><div class="swiper-slide">
+
+![Lilo and The Cask](08_lilo-and-cask.jpg)
+
 </div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
