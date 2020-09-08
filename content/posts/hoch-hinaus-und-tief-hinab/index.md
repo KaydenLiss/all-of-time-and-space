@@ -106,14 +106,14 @@ Euer Michi
 
 </div><div class="swiper-slide">
 
-![Statue](13_inside6.jpg)
+![Statue](13_inside6.png)
 
 </div><div class="swiper-slide">
 
-![Innen quer](14_inside7.jpg)
+![Innen quer](14_inside7.png)
 
 </div><div class="swiper-slide">
 
-![Rückwand innen](15_inside8.jpg)
+![Rückwand innen](15_inside8.png)
 
 </div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
