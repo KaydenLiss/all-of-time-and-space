@@ -1,6 +1,6 @@
 ---
 title: "Denglish"
-date: 2020-09-15T22:48:00+02:00
+date: 2020-09-10T22:48:00+02:00
 author: "Lilo and Mike"
 categories: ["Britain", "English", "German"]
 type: "post"
