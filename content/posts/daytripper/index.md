@@ -151,19 +151,23 @@ After regrouping we shared all the information we had gathered over a few rounds
 
 </div><div class="swiper-slide">
 
-![The lobster of the Lobster Pot](14_blackness.jpeg)
+![The lobster of the Lobster Pot](14_blackness.jpg)
 
 </div><div class="swiper-slide">
 
-![View of the Forth bridges](15_blackness.jpeg)
+![View of the Forth bridges](15_blackness.jpg)
 
 </div><div class="swiper-slide">
     
-![Blackness Castle](17_blackness.jpeg)
+![Blackness Castle from behind](16_blackness.jpg)
+
+</div><div class="swiper-slide">
+    
+![Blackness Castle](17_blackness.jpg)
 
 </div><div class="swiper-slide">
 
-![the dove hut](18_blackness.jpeg)
+![the dovecot](18_blackness.jpg)
 
 </div><div class="swiper-slide">
 
