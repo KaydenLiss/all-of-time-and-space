@@ -16,12 +16,12 @@ So we packed up our bags and drove to St.Andrews, where we left Atlas while we w
 
 The drive to Oban was a long, but beautiful one. Going to the west coast meant crossing Scotland through the Highlands. So we got to see a lot of hills and lovely lochs, if only in passing. 
 
-Oban is a compact town, that is built in a horseshoe-shaped bay, with a lot of islands surrounding it. The one you can see clearly from Oban is the island of Kerrera and behind that the isle of Mull. Off to the south, there are more, amongst other things the Jura and Islay.
+Oban is a compact town, that is built in a horseshoe-shaped bay, with a lot of islands surrounding it. The one you can see clearly from Oban is the island of Kerrera and behind that the isle of Mull. Off to the south, there are more, amongst other things Jura and Islay.
 
 I feel like we could spend the rest of our trip just exploring all the islands, there seems to be so much so see!
 
-The first thing we did was check into our hotel. And whoooey, what a room! We actually ended up staying in two different hotels, but sadly, I only have pics of the second one. <br> The first two nights we stayed at the Pearl Hotel, with a lovely view of the sea, a sitting area and a writing desk. The room was gorgeous! <br>
-The third night we moved over to the Caledonia Hotel, just along the harbour. <br>
+The first thing we did was check into our hotel. And whoooey, what a room! We actually ended up staying in two different hotels, but sadly, I only have pics of the second one. <br> The first two nights we stayed at the Perle Hotel, with a lovely view of the sea, a sitting area and a writing desk. The room was gorgeous! <br>
+The third night we moved over to the Columba Hotel, just along the harbour. <br>
 I’ll call it for what it was: It was the utmost lushest suite I have ever been in! It was the Executive Suite, with bottom-to-top windows with an ocean view, chandeliers, two double beds (we ended up putting Big Mac into one of them, so it wouldn’t look empty) and one large bathroom. I swear, the place was as big as our last flat! 
 
 
@@ -40,7 +40,7 @@ I’ll call it for what it was: It was the utmost lushest suite I have ever been
 </div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
 
 
-As luck would have it the weather decided to turn Scottish on us on the first day in Oban. We didn’t really mind, since it was more of a very consistent drizzle than actual rain and so Mike and I went for a walk along the harbour, while Gill and Doug did the sensible thing and stayed at the hotel to enjoy some coffee.
+As luck would have it the weather decided to turn Scottish on us on the first day in Oban. We didn’t really mind, since it was more of a very constant drizzle than actual rain and so Mike and I went for a walk along the harbour, while Gill and Doug did the sensible thing and stayed at the hotel to enjoy some coffee.
 
 I say sensible because although the weather was just a drizzle, even a drizzle can make it all the way through every single layer of clothes if you run around in it long enough. In this case, I speak of experience.
 
@@ -99,7 +99,7 @@ The tower is nice enough, but what I really liked was the view:
 </div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
 
 After breakfast, Gill and Doug took us for a car trip. We again saw lots of lovely views of the highlands until we got to Seil, one of the Slate-Islands on the east side of Firth of Lorn. 
-Asides from a few ship-wreaks and a picturesque view of the Firth, Seil has two things I really liked: 
+Asides from a few shipwreaks and a picturesque view of the Firth, Seil has two things I really liked: 
 
 First of all, there was the Tigh an Truish Inn. I have virtually no Gaelic knowledge (my language skills only go as far as ‘banana buidhe’ and ‘Slàinte mhath’), but according to my good friend Google, ‘Tigh an Truish’ means ‘House of the trousers’. It got its name after Kilts were banned during the Jacobite rising. The Scots would allegedly use the Inn to swap their trousers for the forbidden kilts after arriving on the island. 
 
