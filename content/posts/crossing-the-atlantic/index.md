@@ -125,7 +125,9 @@ So, just so this has officially been documented for our bucket list watchers: we
 
 </div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
 
-Going back to Oban we had even more excitement, as Doug had the idea that we could go on a boat trip. So we joined Allan’s Wildlife Boat Trips to see if we could see a seal in the sea. We did, but only one heading in the other direction. Still, the views of Mull, Lismore and Kerrera were breathtaking and Allan seemed like a fun guy!
+Going back to Oban we had even more excitement, as Doug had the idea that we could go on a boat trip. So we joined Allan’s Wildlife Boat Trips to see if we could see a seal in the sea. We did, but only one heading in the other direction. 
+
+Still, the views of Mull, Lismore and Kerrera were breathtaking and Allan seemed like a fun guy!
 
 
 <div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
