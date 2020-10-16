@@ -14,7 +14,7 @@ Am nächsten Morgen gings vom Nationalpark aus ab in den Süden, Richtung Nairn.
 Im Vorbeifahren entdeckten wir einen Outdoor-Klamottenshop und kleideten uns sogleich (mit 60 % Discount :)) wasserdicht ein. Danach spazierten wir dem Sonnenuntergang entgegen am Moray Firth entlang und bewunderten die fantastischen Berge, Täler und Schlieren, welche die See über die Jahrtausende in die Sandsteinbänke geschliffen hatte. An vielen Stellen entstehen dabei Kessel, in denen man mit viel Glück Krebse, Seesterne, Muscheln und andere Lebewesen finden kann. Das wird Rockpooling genannt. Bis auf einen Seestern und ein paar tote Krabben war uns das Glück jedoch nicht hold. Nichtsdestotrotz suchten wir begeistert wie Fünfjährige den Strand bis zum Sonnenuntergang ab.
 
 
-[<div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
+<div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
 
 ![Beach of Nairn](38.jpg)
 
@@ -37,7 +37,9 @@ Im Vorbeifahren entdeckten wir einen Outdoor-Klamottenshop und kleideten uns sog
 </div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
 
 
-Tags darauf fuhren wir Richtung Inverness, machten einen kurzen Stopp am ehemaligen Zuhause von Lilos Familie und einen am Schlachtfeld von Culloden Moor. Auf diesem sumpfigen, nebligen und von hohen Sträuchern überwucherten Feld standen sich am 16. April 1746 die Armee der Jakobiten, hauptsächlich schottische Clans, und Truppen des Empires gegenüber.
+Tags darauf fuhren wir Richtung Inverness, machten einen kurzen Stopp am ehemaligen Zuhause von Lilos Familie und einen am Schlachtfeld von Culloden Moor. 
+
+Auf diesem sumpfigen, nebligen und von hohen Sträuchern überwucherten Feld standen sich am 16. April 1746 die Armee der Jakobiten, hauptsächlich schottische Clans, und Truppen des Empires gegenüber.
 
 Grund für den Krieg waren Thronstreitigkeiten. Prinz Charles wollte die britische Krone für seinen im Exil lebenden Vater erringen, der, nach Ansichten der Jakobiten, der rechtmäßige Thronerbe war. 'Bonnie Prince Charlie' landete 1745 in Großbritannien, zog Truppen zusammen und verbuchte einige Siege. Dann überzeugte er seine Generäle davon, dass, sobald sie in England einmarschierten, große Mengen von englischen Jakobiten sich ihnen anschließen und außerdem französische Truppen in Südengland landen würden.
 
