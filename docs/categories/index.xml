@@ -6,7 +6,7 @@
     <description>Recent content in Categories on All of Time and Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2020 21:55:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 12:35:20 +0200</lastBuildDate>
     
 	<atom:link href="http://all-of-time-and-space.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Britain</title>
       <link>http://all-of-time-and-space.de/categories/britain/</link>
-      <pubDate>Sun, 04 Oct 2020 21:55:30 +0200</pubDate>
+      <pubDate>Wed, 07 Oct 2020 12:35:20 +0200</pubDate>
       
       <guid>http://all-of-time-and-space.de/categories/britain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German</title>
+      <link>http://all-of-time-and-space.de/categories/german/</link>
+      <pubDate>Wed, 07 Oct 2020 12:35:20 +0200</pubDate>
+      
+      <guid>http://all-of-time-and-space.de/categories/german/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Sun, 04 Oct 2020 21:55:30 +0200</pubDate>
       
       <guid>http://all-of-time-and-space.de/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>German</title>
-      <link>http://all-of-time-and-space.de/categories/german/</link>
-      <pubDate>Sat, 26 Sep 2020 23:26:39 +0200</pubDate>
-      
-      <guid>http://all-of-time-and-space.de/categories/german/</guid>
       <description></description>
     </item>
     
