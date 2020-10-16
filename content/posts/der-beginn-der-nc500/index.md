@@ -9,7 +9,7 @@ draft: false
 ---
 
 
-Am nächsten Morgen gings vom Nationalpark aus ab in den Süden, Richtung Nairn. Diese Stadt liegt direkt am Meer, genauer gesagt am Moray Firth. 'Firth' ist im Endeffekt dasselbe wie ein Fjord, nur halt schottisch.
+Am nächsten Morgen gings vom Nationalpark aus ab in den Norden, Richtung Nairn. Diese Stadt liegt direkt am Meer, genauer gesagt am Moray Firth. 'Firth' ist im Endeffekt dasselbe wie ein Fjord, nur halt schottisch.
 
 Im Vorbeifahren entdeckten wir einen Outdoor-Klamottenshop und kleideten uns sogleich (mit 60 % Discount :)) wasserdicht ein. Danach spazierten wir dem Sonnenuntergang entgegen am Moray Firth entlang und bewunderten die fantastischen Berge, Täler und Schlieren, welche die See über die Jahrtausende in die Sandsteinbänke geschliffen hatte. An vielen Stellen entstehen dabei Kessel, in denen man mit viel Glück Krebse, Seesterne, Muscheln und andere Lebewesen finden kann. Das wird Rockpooling genannt. Bis auf einen Seestern und ein paar tote Krabben war uns das Glück jedoch nicht hold. Nichtsdestotrotz suchten wir begeistert wie Fünfjährige den Strand bis zum Sonnenuntergang ab.
 
