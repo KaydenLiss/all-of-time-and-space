@@ -25,6 +25,17 @@ We left before the traffic could get rough, but apparently just late enough to d
 
 The trip, though long, went by without a hitch and soon we arrived and started badgering Mark and his mum, much to their delight. It was a short, but lovely, meeting and more than Mike and I had hoped for, considering all the restrictions. 
 
+
+<div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide">
+
+![Lilo and Golden Ted](001.jpg)
+
+</div><div class="swiper-slide">
+
+![Mark and Lilo](002.jpg)
+
+</div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div>
+
 The next day had us up bright and early to go to our first destination: Stonehenge. 
 At least, it would have been Stonehenge, if looking at the (admittedly fascinating) stone circle from miles away weren’t more expensive than food for a week for the two of us. 
 
